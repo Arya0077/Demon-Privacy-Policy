@@ -24,6 +24,8 @@
 #### 1. To clear your tempmute do one of the following:
 - Ask server mod(s) to remove your tempmute
 
+### 2. You may choose to opt out of message logging feature.
+- You can opt out for message logging feature by contacting our admins on our support server, They will blacklist you for message logging(Your message wouldn't be logged)
 
 ## 4. Why do we store the data?
 
@@ -38,15 +40,12 @@
 
 #### 4. It stores User deleted, edited message, spam links because:
 - Bot need to to see deleted and edited message to log them in a particular server (if the server admins have enabled message logging), bot also sees for spam links to delete them for automod functions.
-
-## 5. You may choose to opt out of message logging feature.
-- You can opt out for message logging feature by contacting our admins on our support server, They will blacklist you for message logging(Your message wouldn't be logged)
  
-## 6. How can we delete our entire data?
+## 5. How can we delete our entire data?
 
 ### Simply join our support server and ask Developer Team to delete your entire data, They will delete your entrie data without asking any question.
 
-## 7. I'm questioning why do you need all this data, and this Privacy Policy doesn't answer my question. What should I do?
+## 6. I'm questioning why do you need all this data, and this Privacy Policy doesn't answer my question. What should I do?
 
 #### You can reach us by the following things:
 - Join our [Support Server](https://discord.gg/zvynSK7Crk) on discord
