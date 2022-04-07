@@ -19,15 +19,7 @@
 #### 3. Following people can access reports:
 - Bot developer(s)
 
-## 3. How can I get rid of the data stored? 
-
-#### 1. To clear your tempmute do one of the following:
-- Ask server mod(s) to remove your tempmute
-
-### 2. You may choose to opt out of message logging feature.
-- You can opt out for message logging feature by contacting our admins on our support server, They will blacklist you for message logging(Your message wouldn't be logged)
-
-## 4. Why do we store the data?
+## 3. Why do we store the data?
 
 #### 1. It stores server IDs for settings and data because:
 - Without those most of the bot Commands wouldn't be functional.
@@ -41,6 +33,14 @@
 #### 4. It stores User deleted, edited message, spam links because:
 - Bot need to to see deleted and edited message to log them in a particular server (if the server admins have enabled message logging), bot also sees for spam links to delete them for automod functions.
  
+## 4. How can I get rid of the data stored? 
+
+#### 1. To clear your tempmute do one of the following:
+- Ask server mod(s) to remove your tempmute
+
+### 2. You may choose to opt out of message logging feature.
+- You can opt out for message logging feature by contacting our admins on our support server, They will blacklist you for message logging(Your message wouldn't be logged)
+
 ## 5. How can we delete our entire data?
 
 ### Simply join our support server and ask Developer Team to delete your entire data, They will delete your entrie data without asking any question.
