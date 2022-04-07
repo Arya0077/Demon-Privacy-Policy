@@ -2,8 +2,6 @@
 ### By using Demon you accept with its privacy policy.
 
 ## 1. What does it store?
-##Types of Data collected
-
 
  - Server IDs for servers data(prefixes, settings)
  - User IDs for tempmute, report and feedback.
